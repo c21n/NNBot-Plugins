@@ -1,0 +1,15 @@
+{
+  "example-plugin": {
+    "name": "example-plugin",
+    "display_name": "示例插件",
+    "description": "一个示例插件，展示注册表格式",
+    "version": "1.0.0",
+    "author": "NNBot",
+    "repo": "https://github.com/NNBotDev/example-plugin",
+    "category": "utility",
+    "tags": ["example", "demo"],
+    "stars": 0,
+    "updated_at": "2026-06-08T00:00:00Z",
+    "pinned": true
+  }
+}
